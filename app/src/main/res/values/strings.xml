@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bite Time</string>
+    <string name="full_meal">full meal</string>
+    <string name="burger">burger</string>
+</resources>
